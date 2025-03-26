@@ -3,7 +3,7 @@
 A simple yet engaging Tic-Tac-Toe game built with a clean UI and smooth gameplay. Play against a friend or challenge yourself with an AI opponent.  
 
 ## 🚀 Live Demo  
-🔗 [Play Now]()  
+🔗 [Play Now](https://tic-tac-toe-game-indol-zeta.vercel.app/)  
 
 ## Features  
 - ✅ Classic 3x3 Tic-Tac-Toe gameplay  
